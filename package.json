@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-message",
+  "name": "particl-bitcore-message",
   "version": "1.0.3",
-  "description": "Bitcoin Messages for Bitcore",
+  "description": "Particl Messages for Bitcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "build": "gulp"
   },
   "keywords": [
-    "bitcoin",
+    "particl",
     "bitcore",
     "btc",
     "satoshi",
@@ -20,10 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-message.git"
+    "url": "https://github.com/particl/particl-bitcore-message.git"
   },
   "dependencies": {
-    "bitcore-lib": "^0.13.7"
+    "particl-bitcore-lib": "file:../particl-bitcore-lib"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
