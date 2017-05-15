@@ -23,7 +23,7 @@
     "url": "https://github.com/particl/particl-bitcore-message.git"
   },
   "dependencies": {
-    "particl-bitcore-lib": "file:../particl-bitcore-lib"
+    "particl-bitcore-lib": "git://github.com/particl/particl-bitcore-lib"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
