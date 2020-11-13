@@ -2,16 +2,16 @@
   "name": "bitcore-message",
   "main": "./bitcore-message.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/particl/particl-bitcore-message",
+  "homepage": "https://github.com/rhombus/rhombus-bitcore-message",
   "authors": [
     "BitPay"
   ],
-  "description": "Particl Message Verification and Signing for Particl",
+  "description": "Rhombus Message Verification and Signing for Rhombus",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "particl",
+    "rhombus",
     "bitcore",
     "btc",
     "satoshi",
